@@ -2,7 +2,7 @@ manifestVersion: 1
 id: ajudd-public-pool
 category: bitcoin
 name: Public Pool
-icon: https://web.public-pool.io/assets/layout/images/logo.svg
+icon: https://www.getwired.app/icon.png
 version: "4bb00f2"
 tagline: Fully Open Source Solo Bitcoin Mining Pool
 description: >-
