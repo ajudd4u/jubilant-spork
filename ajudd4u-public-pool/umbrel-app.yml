@@ -2,6 +2,7 @@ manifestVersion: 1
 id: ajudd-public-pool
 category: bitcoin
 name: Public Pool
+icon: https://static01.nyt.com/images/2018/05/15/arts/01hal-voice1/merlin_135847308_098289a6-90ee-461b-88e2-20920469f96a-superJumbo.jpg
 version: "4bb00f2"
 tagline: Fully Open Source Solo Bitcoin Mining Pool
 description: >-
@@ -17,9 +18,8 @@ repo: https://github.com/benjamin-wilson/public-pool
 support: https://github.com/benjamin-wilson/public-pool/issues
 port: 2019
 gallery:
-  - 1.jpg
-  - 2.jpg
-  - 3.jpg
+  - https://rhasspy.readthedocs.io/en/latest/img/web-speech.png
+  - https://rhasspy.readthedocs.io/en/latest/img/services.png
 path: ""
 defaultPassword: ""
 submitter: smolgrrr
