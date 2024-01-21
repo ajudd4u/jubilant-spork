@@ -17,6 +17,9 @@ dependencies:
 repo: https://github.com/benjamin-wilson/public-pool
 support: https://github.com/benjamin-wilson/public-pool/issues
 port: 2019
+gallery:
+  - https://rhasspy.readthedocs.io/en/latest/img/web-speech.png
+  - https://rhasspy.readthedocs.io/en/latest/img/services.png
 path: ""
 defaultPassword: ""
 submitter: smolgrrr
