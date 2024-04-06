@@ -2,15 +2,17 @@ manifestVersion: 1
 id: ajudd-public-pool
 category: bitcoin
 name: Public Pool
-icon: https://i.imgur.com/lh7j6yH.png
-version: "4bb00f2"
+version: "820d8d1"
 tagline: Fully Open Source Solo Bitcoin Mining Pool
 description: >-
-  Fully Open Source Solo Bitcoin Mining Pool
+  Run your own Bitcoin Solo Mining Pool with no fees.
 
+  Connected to your Bitcoin node, and only your node. Contribute to furthering bitcoin mining decentralisation.
 
-  Don't trust. Verify. On steroids.
-developer: benjamin-wilson
+  Allows you to pool together any and all mining hardware, with mining rewards going directly to your chosen bitcoin address. 
+
+  Track total hashrate and your individual works with ease.
+developer: Benjamin Wilson
 website: https://web.public-pool.io/#/
 dependencies:
   - bitcoin
@@ -18,8 +20,14 @@ repo: https://github.com/benjamin-wilson/public-pool
 support: https://github.com/benjamin-wilson/public-pool/issues
 port: 2019
 gallery:
-  - https://i.imgur.com/zCF2vry.png
+  - 1.jpg
+  - 2.jpg
+  - 3.jpg
 path: ""
+releaseNotes: >-
+  This update includes some performance improvements, and UI changes.
+
+  See changes here: https://github.com/benjamin-wilson/public-pool
 defaultPassword: ""
 submitter: smolgrrr
 submission: https://github.com/getumbrel/umbrel-apps/pull/915
